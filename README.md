@@ -1,5 +1,4 @@
 # Insurance-Portfolio-Risk-Analysis
-Insurance Portfolio Risk Analysis Project
 
 **The following situation was presented to me in a take-home Analytical Assessment for a job interview at a risk analytics company:**
 
@@ -55,34 +54,55 @@ i. Each explanation should be a few sentences long
 you should provide a workbook that contains the work you did to complete each task/question.
 Each task and question should be on its own sheet.
 
-Definitions
+**Definitions:**
+
 LocationID: A unique identifier for each location in the loss output file.
+
 Portfolio: A numeric indicator for which portfolio a given location belongs to.
+
 State: The state the location is in.
+
 County: The county the location is in.
+
 Postal Code: The postal code the location is in.
+
 Building Value: The insured value of the building at the location.
+
 Other Value: The insured value of other structures at the location, not including the main building.
+
 Contents Value: The insured value of the contents of the building at the location.
+
 Time Element Value: The insured value for cost endured by being displaced from the location.
+
 Total Insured Value (TIV): The sum of the building value, other value, contents value, and time element
 value at each location.
+
 Risk Count: The number of insured risks at a given location. Each location in the loss output file is
 assumed to have a risk count of 1.
+
 Occupancy Code: The type of building structure, such as a house or office building, at the location. The
 table in Appendix A outlines the meanings of occupancy codes found in the provided data.
+
 Construction Code: The materials used to build the structure at the location. The table in Appendix B
 outlines the meanings of construction codes found in the provided data.
+
 Stories: The number of stories the building at the location has. KCC uses the following building height
 bands:
+
 • Small: Buildings with 1 to 3 stories
+
 • Medium: Buildings with 4 to 7 stories
+
 • Large: Buildings with 8 or more stories
 
 Year Built: The year the building at the location was built. KCC uses the following year built bands:
+
 • Old: Built before 1980
+
 • Average: Built between 1980 and 2000
+
 • New: Built after 2000
+
 Average Annual Loss (AAL): The average total claims amount Got Your Back Insurance pays to a location
 each year as a result of winter storm damage.
 
