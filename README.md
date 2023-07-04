@@ -107,20 +107,34 @@ Average Annual Loss (AAL): The average total claims amount Got Your Back Insuran
 each year as a result of winter storm damage.
 
 Appendix A:
+
 Occupancy Code Description
-ATC-00 Unknown
-ATC-01 Single Family Housing
-ATC-02 Multi-Family Housing
-ATC-37 General Commercial
-ATC-38 General Industrial
+
+ATC-00: Unknown
+
+ATC-01: Single Family Housing
+
+ATC-02: Multi-Family Housing
+
+ATC-37: General Commercial
+
+ATC-38: General Industrial
 
 Appendix B:
+
 Construction Code Description
-WD00 Wood
-WD10 Wood – Wood Frame
-MS00 Masonry
-MS10 Masonry - Unreinforced
-CN00 Concrete
-CN10 Concrete - Reinforced
-MH00 Mobile Home
-MH10 Mobile Home – No Tie-Down
+WD00: Wood
+
+WD10: Wood – Wood Frame
+
+MS00: Masonry
+
+MS10: Masonry - Unreinforced
+
+CN00: Concrete
+
+CN10: Concrete - Reinforced
+
+MH00: Mobile Home
+
+MH10: Mobile Home – No Tie-Down
