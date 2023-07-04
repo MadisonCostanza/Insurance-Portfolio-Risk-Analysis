@@ -86,7 +86,7 @@ table in Appendix A outlines the meanings of occupancy codes found in the provid
 Construction Code: The materials used to build the structure at the location. The table in Appendix B
 outlines the meanings of construction codes found in the provided data.
 
-Stories: The number of stories the building at the location has. KCC uses the following building height
+Stories: The number of stories the building at the location has. We use the following building height
 bands:
 
 • Small: Buildings with 1 to 3 stories
@@ -95,7 +95,7 @@ bands:
 
 • Large: Buildings with 8 or more stories
 
-Year Built: The year the building at the location was built. KCC uses the following year built bands:
+Year Built: The year the building at the location was built. We use the following year built bands:
 
 • Old: Built before 1980
 
@@ -123,6 +123,7 @@ ATC-38: General Industrial
 Appendix B:
 
 Construction Code Description
+
 WD00: Wood
 
 WD10: Wood – Wood Frame
