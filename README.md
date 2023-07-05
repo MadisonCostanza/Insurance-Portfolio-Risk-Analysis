@@ -1,8 +1,8 @@
 # Insurance-Portfolio-Risk-Analysis
 
-**The following situation was presented to me in a take-home Analytical Assessment for a job interview at a risk analytics company:**
+**Case Study:**
 
-Got Your Back Insurance recently used our Winter Storm model to determine the
+Got Your Back Insurance recently used our company's Winter Storm model to determine the
 expected yearly losses for 2 of their portfolios. Each portfolio contains one or more insurance policies
 that cover the company’s insured properties. The analysis ran smoothly, but the client is having issues
 deciphering the results and what they mean for their business. 
