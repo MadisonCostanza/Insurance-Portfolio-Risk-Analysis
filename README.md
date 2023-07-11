@@ -1,4 +1,4 @@
-# Insurance-Portfolio-Risk-Analysis
+# Insurance Portfolio Risk Analysis
 
 **Case Study:**
 
