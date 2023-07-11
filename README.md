@@ -44,13 +44,7 @@ a. A read me sheet that states any assumptions made during the analysis
 b. Exhibits containing the desired outputs described in the Tasks section. The number of
 sheets used to display the output exhibits is up to you.
 
-2. A document with:
-a. Your answers to the Questions
-i. Answer to each question should be 1-2 paragraphs in length
-b. Explanations of how you cleaned the data and completed each Tasks
-i. Each explanation should be a few sentences long
-
-3. File(s) containing the code written to conduct the analysis. If you did the assignment in Excel,
+2. File(s) containing the code written to conduct the analysis. If you did the assignment in Excel,
 you should provide a workbook that contains the work you did to complete each task/question.
 Each task and question should be on its own sheet.
 
