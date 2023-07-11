@@ -38,7 +38,7 @@ analysis you conducted to support your conclusion.
 
 **Deliverables**
 
-This assignment has 3 deliverables:
+This assignment has 2 deliverables:
 1. A formatted excel workbook with:
 a. A read me sheet that states any assumptions made during the analysis
 b. Exhibits containing the desired outputs described in the Tasks section. The number of
