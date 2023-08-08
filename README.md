@@ -7,11 +7,10 @@ expected yearly losses for 2 of their portfolios. Each portfolio contains one or
 that cover the company’s insured properties. The analysis ran smoothly, but the client is having issues
 deciphering the results and what they mean for their business. 
 
-The client expressed that it would be helpful to see calculations of the different risk metrics their output contains. Each calculation, also
-referred to as an exhibit, will have its own table in an excel file that details how the final output was
-determined. The excel will be sent to the client to help them develop a deeper understanding of their
+The client expressed that it would be helpful to see various risk metrics the data output contains. Each risk metric, also
+referred to as a task below, will have its own interactive Tableau dashboard. The Tableau dashboards will be sent to the client to help them develop a deeper understanding of their
 exposure. We knows that client data can often contain errors or abnormalities and has asked you to
-clean the data, prepare a set of exhibits, and answer a set of questions. The loss output provided by the
+clean the data, prepare the risk metrics via calculations, and answer a set of questions. The loss output provided by the
 client can be found in Analytical_Assessment_Data.csv.
 
 Any assumptions or changes to the data you make during this analysis should be clearly stated in the
