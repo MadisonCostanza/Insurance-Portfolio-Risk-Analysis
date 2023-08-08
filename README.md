@@ -14,7 +14,7 @@ clean the data, prepare the risk metrics via calculations, and answer a set of q
 client can be found in Analytical_Assessment_Data.csv.
 
 Any assumptions or changes to the data you make during this analysis should be clearly stated in the
-deliverables outlined below. The definitions section will help to guide your analysis and the data
+programming script and final dashboard. The definitions section will help to guide your analysis and the data
 cleaning process. This assignment can be completed in the coding language of your choice.
 
 **Tasks for the Assessment:**
